@@ -5,6 +5,9 @@ li{
     margin:0px 0px 0px -18px;
     padding: 0px;
 }
+img#logo_internet_archive:hover{
+transform:scale(1.09);
+}
 #horizontal_line{
     margin: 0px; 
     padding: 0px; 
